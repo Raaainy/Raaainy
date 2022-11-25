@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Github 👋</h1>
 <h3 align="center">Ufacık kendimden bahsetmek isterim.</h3>
 
-- Ben Mert genelde bana **Rainyyy** diye seslenirler. 18 yaşındayım, 2020 yılında başlayan JavaScript yazılım diline karşı merakımla beraber 
+- Ben Mert genelde bana **Rainy** diye seslenirler. 18 yaşındayım, 2020 yılında başlayan JavaScript yazılım diline karşı merakımla beraber 
 - **`2 yıldır yazılım alanında kendimi geliştirmeye devam eden biriyim`** ve kendime sürekli bir şeyler katmayı seven biriyim. 🥰
 
 
