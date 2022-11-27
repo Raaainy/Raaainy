@@ -4,12 +4,9 @@
 - Ben Mert genelde bana **Rainy** diye seslenirler. 18 yaşındayım, 2020 yılında başlayan JavaScript yazılım diline karşı merakımla beraber 
 - **`2 yıldır yazılım alanında kendimi geliştirmeye devam eden biriyim`** ve kendime sürekli bir şeyler katmayı seven biriyim. 🥰
 
-
-<h3 align="left">Birlikte iletişim halinde olabiliriz:</h3>
-<p align="left">
-<a href="https://discord.gg/GHr3fKvcMn" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/GHr3fKvcMn" height="28" width="104.75" /></a>
-</p>
-<a href="https://www.instagram.com/mertdedeoglux/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/mertdedeoglux/" height="28" width="123.25" /></a>
+<p align="center">
+  <a href="https://www.instagram.com/mertdedeoglux/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://discord.gg/GHr3fKvcMn"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <h3 align="left">Şuan'a kadar öğrenebildiğim bir çoğu dil;</h3>
