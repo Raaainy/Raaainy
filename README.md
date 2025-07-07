@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Ufacık kendimden bahsetmek isterim.</h3>
 
-- Ben Mert genelde bana **[Rainy](https://discord.com/users/451485556900364320)** diye seslenirler. 18 yaşındayım, 2020 yılında başlayan JavaScript yazılım diline karşı merakımla beraber **`iki yıldır yazılım alanında kendimi geliştirmeye devam eden biriyim`** ve kendime sürekli bir şeyler katmayı seven biriyim. 🥰
+- Ben Mert genelde bana **[Rainy](https://discord.com/users/451485556900364320)** diye seslenirler. 19 yaşındayım, 2020 yılında başlayan JavaScript yazılım diline karşı merakımla beraber **`iki yıldır yazılım alanında kendimi geliştirmeye devam eden biriyim`** ve kendime sürekli bir şeyler katmayı seven biriyim. 🥰
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaainy&label=Profile%20views&color=552b75" alt="raaainy" /> </a>
 
