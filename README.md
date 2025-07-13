@@ -1,7 +1,9 @@
 <h1 align="center">Merhaba Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">GitHub Hesabıma hoş geldin.🩷</h3>
 
-- Ben **[Mert Dedeoğlu](https://www.instagram.com/mertdedeoglux/)**
+- Ben, **[Mert Dedeoğlu](https://www.instagram.com/mertdedeoglux/)** 🙋‍♂️
+- **[Steam Hesabım](https://steamcommunity.com/profiles/76561199591510886/)**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaainy&label=Profile%20views&color=552b75" alt="raaainy" /> </a>
 
